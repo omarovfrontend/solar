@@ -1,3 +1,3 @@
 # solar
 
-Demo - https://omarov-frontend.github.io/solar/
+Demo - https://omarovfrontend.github.io/solar/
